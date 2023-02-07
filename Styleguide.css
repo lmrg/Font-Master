@@ -263,6 +263,7 @@ header{
     
     .slider p{
         font-size: 2rem;
+        border-radius: 1px;
     }
 }
 
